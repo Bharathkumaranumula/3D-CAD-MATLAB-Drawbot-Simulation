@@ -18,22 +18,32 @@ It’s ideal as an assistive writing device, educational tool, and for applicati
 
 🧠 Key Features
 --> Custom Kinematics: Unique geared 4-bar linkage design for radial and angular control
+
 --> Polar Coordinate Control: Precise positioning with independent radius (r) and angle (θ) motion
+
 --> Image to Path Conversion: MATLAB-based contour extraction and path planning
+
 --> Original Design: Entire CAD model, linkage synthesis, and kinematics developed from scratch
 
 🛠️ Technical Stack
 Component & Description
 Control Model	--------------------Custom inverse kinematics (MATLAB)
+
 Mechanism	----------------------- Geared 4-bar linkage, straight-line mechanisms
+
 Design	---------------------------Fully custom CAD (no external references)
+
 Motors	----------------------------Dual motor system (angular + radial control)
+
 Software	---------------------------MATLAB, CAD, basic computer vision tools
 
 🔮 Future Enhancements
 --> Integration with microcontroller-based control (e.g. Arduino, Raspberry Pi)
+
 --> Real-time path correction using vision feedback
+
 --> Enhanced drawing accuracy with closed-loop motor control
+
 --> Full integration and testing of all modules
 
 🤝 Contributions
