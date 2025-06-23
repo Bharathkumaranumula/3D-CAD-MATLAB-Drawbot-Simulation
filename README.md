@@ -1,17 +1,18 @@
 ✏️ DrawBot — Precision Drawing with Polar Motion
+
 Welcome to the repository of DrawBot, a custom-built polar-coordinate drawing robot designed to automate precision writing, pattern generation, and educational demonstrations.
 This project blends mechanical design, kinematic synthesis, and computer vision to explore robotics and automation in a compact form.
 
 🚀 Project Overview
 DrawBot is an innovative solution for automated drawing and writing tasks that:
 
-📸 Converts input images into contour points using MATLAB
+--> Converts input images into contour points using MATLAB
 
-📐 Computes inverse kinematics in polar coordinates (r, θ)
+--> Computes inverse kinematics in polar coordinates (r, θ)
 
-⚙️ Drives a unique 4-bar gear-coupled linkage for smooth polar motion
+--> Drives a unique 4-bar gear-coupled linkage for smooth polar motion
 
-🖊️ Accurately controls pen position for precise line tracing
+--> Accurately controls pen position for precise line tracing
 
 It’s ideal as an assistive writing device, educational tool, and for applications like PCB mask drawing or space-constrained robotics.
 
